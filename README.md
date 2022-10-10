@@ -115,9 +115,9 @@ DiiT Portal</a>
 
 Demo user for Student & Teacher's Authentication
 
-Email: farhan@diit.info
+Email: abdur115@diit.info
 
-Password: 654321
+Password: 6543210
 
 <a href="https://gamergirl.pro/KBMSNA" title="DiiT Portal" download> Download DiiT Portal</a>
 
