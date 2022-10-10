@@ -10,6 +10,7 @@ DiiT Portal</a>
 ## Highlighting Features
 
 Daily Forecast
+
 Class Schedule
 Class Routine
 Attendance
