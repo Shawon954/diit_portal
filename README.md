@@ -9,18 +9,29 @@ DiiT Portal</a>
 
 ## Highlighting Features
 
-Daily Forecast
+=> Daily Forecast
 
-Class Schedule
-Class Routine
-Attendance
-Question Bank
-Tuition Fees
-Student Payment Info
-Notice with Notification
-Quick Pay
-Admission & Payment Info
-NU Portal
-Academic Result
-Clubs Activity
+=> Class Schedule
+
+=> Class Routine
+
+=> Attendance
+
+=> Question Bank
+
+=> Tuition Fees
+
+=> Student Payment Info
+
+=> Notice with Notification
+
+=> Quick Pay
+
+=> Admission & Payment Info
+
+=> NU Portal
+
+=> Academic Result
+
+=> Clubs Activity
 
